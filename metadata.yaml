@@ -1,0 +1,37 @@
+_repo: Captain-Billy-s-Whiz-Bang-Vol-3-No-31-March-1922-America-s-Magazine-of-Wit-Humor-and-Filosoph__62558
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Fawcett, W. H. (Wilford Hamilton)
+    aliases:
+    - Billy, Captain
+    - Fawcett, Billy
+    - Captain Billy
+    - Fawcett, Wilford Hamilton
+    birthdate: 1885
+    deathdate: 1940
+    gutenberg_agent_id: '48512'
+    url: http://www.gutenberg.org/2009/agents/48512
+    wikipedia: https://en.wikipedia.org/wiki/Wilford_Fawcett
+description: ''
+gutenberg_issued: '2020-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62558'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'American wit and humor -- Periodicals'
+- GITenberg
+title: 'Captain Billy''s Whiz Bang, Vol. 3, No. 31, March, 1922
+
+  America''s Magazine of Wit, Humor and Filosophy'
+url: http://www.gutenberg.org/ebooks/62558
